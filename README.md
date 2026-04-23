@@ -1,6 +1,6 @@
 # Data Management Repository
 
-Student Name: Hima Bindu N
+Student Name: Hima Bindu Nagendra Gowda
 
 Course: Data Management
 
