@@ -1,0 +1,24 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "Dengue Diseases Dataset",
+    "description": "Dataset containing medical and blood test parameters used for dengue disease prediction and classification tasks in machine learning.",
+    "url": "https://www.kaggle.com/",
+    "creator": {
+        "@type": "Person",
+        "name": "Dataset Contributor"
+    },
+    "keywords": [
+        "Dengue",
+        "Healthcare",
+        "Disease Prediction",
+        "Machine Learning",
+        "Medical Dataset"
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Public Dataset Repository"
+    },
+    "datePublished": "2026",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}
