@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://datacite.org/schema/kernel-4
+    http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+
+    <identifier identifierType="DOI">10.1234/dengue.dataset</identifier>
+
+    <creators>
+        <creator>
+            <creatorName>Dataset Contributor</creatorName>
+        </creator>
+    </creators>
+
+    <titles>
+        <title>Dengue Diseases Dataset</title>
+    </titles>
+
+    <publisher>Public Dataset Repository</publisher>
+
+    <publicationYear>2026</publicationYear>
+
+    <resourceType resourceTypeGeneral="Dataset">
+        Medical Disease Prediction Dataset
+    </resourceType>
+
+    <subjects>
+        <subject>Machine Learning</subject>
+        <subject>Healthcare</subject>
+        <subject>Disease Prediction</subject>
+        <subject>Dengue Detection</subject>
+    </subjects>
+
+    <descriptions>
+        <description descriptionType="Abstract">
+            This dataset contains clinical and blood test parameters used for predicting dengue disease.
+            It includes patient details such as age, gender, hemoglobin, WBC count, RBC count,
+            platelet count, and dengue diagnosis label for machine learning classification tasks.
+        </description>
+    </descriptions>
+
+</resource>
