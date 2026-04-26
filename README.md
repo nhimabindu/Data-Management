@@ -8,8 +8,8 @@ This repository contains all weekly exercises, assignments and project submissio
 
 ## Repository Structure
 
-Week 1 → Exercise
+Week 1 -> Exercise 
+Dataset-Dengue Diseases Dataset
 
-## Dataset Used for Metadata Exercise
-
-Dengue Diseases Dataset
+Week 2 -> Exercise
+Dataset-Data Quality Dataset
